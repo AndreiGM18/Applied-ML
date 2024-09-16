@@ -1,0 +1,19 @@
+Train set
+Accuracy: 0.48214873313589995
+Precision: 0.4872097135447365
+Recall: 0.6799934188877921
+F1 Score: 0.5676807911544536
+Negative Log Likelihood: 1.5170278947778202
+Confusion Matrix:
+[[1728 4350]
+ [1945 4133]]
+
+Test set
+Accuracy: 0.3735
+Precision: 0.22875354107648727
+Recall: 0.6632443531827515
+F1 Score: 0.34017904160084256
+Negative Log Likelihood: 1.9073491719150624
+Confusion Matrix:
+[[1089 1089]
+ [ 323  323]]

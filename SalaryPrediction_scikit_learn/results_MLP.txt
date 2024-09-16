@@ -1,0 +1,28 @@
+Train set
+Accuracy: 0.9369858506087528
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.94      6078
+           1       0.93      0.94      0.94      6078
+
+    accuracy                           0.94     12156
+   macro avg       0.94      0.94      0.94     12156
+weighted avg       0.94      0.94      0.94     12156
+
+Test set
+Accuracy: 0.797
+              precision    recall  f1-score   support
+
+           0       0.87      0.86      0.86      1513
+           1       0.58      0.61      0.59       487
+
+    accuracy                           0.80      2000
+   macro avg       0.73      0.73      0.73      2000
+weighted avg       0.80      0.80      0.80      2000
+
+Train Confusion Matrix:
+[[5666  412]
+ [ 354 5724]]
+Test Confusion Matrix:
+[[1297  216]
+ [ 190  297]]

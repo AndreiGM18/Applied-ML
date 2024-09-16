@@ -1,0 +1,60 @@
+Epoch 01 | Batch 244 | Train NLL:  0.113 | Train Acc: 100.00% | Train Prec: 56.52% | Train Rec: 99.69% | Train F1: 72.14%
+| Test NLL:  1.733 | Test Acc: 29.06%
+| Test Prec: 9.38% | Test Rec: 100.00% | Test F1: 17.14%
+Epoch 02 | Batch 244 | Train NLL:  0.131 | Train Acc:  95.00% | Train Prec: 59.57% | Train Rec: 98.03% | Train F1: 74.11%
+| Test NLL:  1.529 | Test Acc: 38.45%
+| Test Prec: 10.65% | Test Rec: 100.00% | Test F1: 19.26%
+Epoch 03 | Batch 244 | Train NLL:  0.137 | Train Acc:  95.00% | Train Prec: 60.71% | Train Rec: 97.83% | Train F1: 74.92%
+| Test NLL:  1.454 | Test Acc: 41.88%
+| Test Prec: 11.21% | Test Rec: 100.00% | Test F1: 20.16%
+Epoch 04 | Batch 244 | Train NLL:  0.138 | Train Acc:  95.00% | Train Prec: 61.39% | Train Rec: 97.80% | Train F1: 75.43%
+| Test NLL:  1.411 | Test Acc: 43.44%
+| Test Prec: 11.37% | Test Rec: 98.67% | Test F1: 20.39%
+Epoch 05 | Batch 244 | Train NLL:  0.137 | Train Acc:  95.00% | Train Prec: 61.82% | Train Rec: 97.80% | Train F1: 75.76%
+| Test NLL:  1.381 | Test Acc: 44.03%
+| Test Prec: 11.47% | Test Rec: 98.67% | Test F1: 20.56%
+Epoch 06 | Batch 244 | Train NLL:  0.135 | Train Acc:  95.00% | Train Prec: 62.10% | Train Rec: 97.83% | Train F1: 75.97%
+| Test NLL:  1.358 | Test Acc: 44.62%
+| Test Prec: 11.58% | Test Rec: 98.67% | Test F1: 20.73%
+Epoch 07 | Batch 244 | Train NLL:  0.133 | Train Acc:  95.00% | Train Prec: 62.40% | Train Rec: 97.93% | Train F1: 76.23%
+| Test NLL:  1.338 | Test Acc: 45.60%
+| Test Prec: 11.76% | Test Rec: 98.67% | Test F1: 21.02%
+Epoch 08 | Batch 244 | Train NLL:  0.131 | Train Acc:  95.00% | Train Prec: 62.62% | Train Rec: 97.96% | Train F1: 76.40%
+| Test NLL:  1.322 | Test Acc: 46.38%
+| Test Prec: 11.92% | Test Rec: 98.67% | Test F1: 21.26%
+Epoch 09 | Batch 244 | Train NLL:  0.129 | Train Acc:  95.00% | Train Prec: 62.78% | Train Rec: 97.96% | Train F1: 76.52%
+| Test NLL:  1.307 | Test Acc: 46.87%
+| Test Prec: 12.01% | Test Rec: 98.67% | Test F1: 21.42%
+Epoch 10 | Batch 244 | Train NLL:  0.127 | Train Acc:  95.00% | Train Prec: 62.95% | Train Rec: 98.03% | Train F1: 76.67%
+| Test NLL:  1.294 | Test Acc: 47.75%
+| Test Prec: 12.19% | Test Rec: 98.67% | Test F1: 21.70%
+Epoch 11 | Batch 244 | Train NLL:  0.125 | Train Acc:  95.00% | Train Prec: 63.17% | Train Rec: 98.03% | Train F1: 76.83%
+| Test NLL:  1.281 | Test Acc: 48.04%
+| Test Prec: 12.25% | Test Rec: 98.67% | Test F1: 21.80%
+Epoch 12 | Batch 244 | Train NLL:  0.123 | Train Acc:  95.00% | Train Prec: 63.43% | Train Rec: 98.06% | Train F1: 77.03%
+| Test NLL:  1.270 | Test Acc: 48.73%
+| Test Prec: 12.27% | Test Rec: 97.33% | Test F1: 21.79%
+Epoch 13 | Batch 244 | Train NLL:  0.121 | Train Acc:  95.00% | Train Prec: 63.63% | Train Rec: 98.06% | Train F1: 77.18%
+| Test NLL:  1.259 | Test Acc: 49.51%
+| Test Prec: 12.44% | Test Rec: 97.33% | Test F1: 22.05%
+Epoch 14 | Batch 244 | Train NLL:  0.120 | Train Acc:  95.00% | Train Prec: 63.85% | Train Rec: 98.19% | Train F1: 77.38%
+| Test NLL:  1.249 | Test Acc: 49.51%
+| Test Prec: 12.31% | Test Rec: 96.00% | Test F1: 21.82%
+Epoch 15 | Batch 244 | Train NLL:  0.118 | Train Acc:  95.00% | Train Prec: 64.07% | Train Rec: 98.26% | Train F1: 77.56%
+| Test NLL:  1.240 | Test Acc: 49.80%
+| Test Prec: 12.24% | Test Rec: 94.67% | Test F1: 21.68%
+Epoch 16 | Batch 244 | Train NLL:  0.117 | Train Acc: 100.00% | Train Prec: 64.23% | Train Rec: 98.29% | Train F1: 77.69%
+| Test NLL:  1.231 | Test Acc: 50.00%
+| Test Prec: 12.28% | Test Rec: 94.67% | Test F1: 21.75%
+Epoch 17 | Batch 244 | Train NLL:  0.116 | Train Acc: 100.00% | Train Prec: 64.34% | Train Rec: 98.31% | Train F1: 77.78%
+| Test NLL:  1.223 | Test Acc: 50.10%
+| Test Prec: 12.31% | Test Rec: 94.67% | Test F1: 21.78%
+Epoch 18 | Batch 244 | Train NLL:  0.115 | Train Acc: 100.00% | Train Prec: 64.56% | Train Rec: 98.34% | Train F1: 77.95%
+| Test NLL:  1.214 | Test Acc: 50.29%
+| Test Prec: 12.35% | Test Rec: 94.67% | Test F1: 21.85%
+Epoch 19 | Batch 244 | Train NLL:  0.114 | Train Acc: 100.00% | Train Prec: 64.67% | Train Rec: 98.39% | Train F1: 78.04%
+| Test NLL:  1.207 | Test Acc: 50.68%
+| Test Prec: 12.43% | Test Rec: 94.67% | Test F1: 21.98%
+Epoch 20 | Batch 244 | Train NLL:  0.113 | Train Acc: 100.00% | Train Prec: 64.76% | Train Rec: 98.42% | Train F1: 78.12%
+| Test NLL:  1.199 | Test Acc: 50.78%
+| Test Prec: 12.46% | Test Rec: 94.67% | Test F1: 22.02%

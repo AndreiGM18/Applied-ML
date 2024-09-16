@@ -1,0 +1,17 @@
+Hiperparametrii utilizați pentru rețeaua neurală de tip MLP sunt următorii:
+
+- **Arhitectura rețelei**: Am definit o rețea neurală cu două straturi ascunse. Primul strat ascuns are 64 de neuroni, iar al doilea strat ascuns are 32 de neuroni. Aceasta este specificată de parametrul `hidden_layer_sizes=(64, 32)`.
+
+- **Funcția de activare**: Pentru toate straturile ascunse, am folosit funcția de activare ReLU (Rectified Linear Unit). Aceasta este specificată de parametrul `activation='relu'`.
+
+- **Optimizator**: Am folosit algoritmul de optimizare Adam pentru a antrena rețeaua. Acesta este specificat de parametrul `solver='adam'`.
+
+- **Learning rate inițial**: Am setat learning rate-ul inițial la 0.001, ceea ce reprezintă rata cu care se actualizează ponderile în timpul antrenării. Acesta este specificat de parametrul `learning_rate_init=0.001`.
+
+- **Regularizare L2**: Am inclus regularizarea L2 pentru a preveni overfitting-ul în timpul antrenării. Coeficientul de regularizare este setat implicit la 0.0001, dar poate fi ajustat în funcție de nevoile specifice ale setului de date. Aceasta este specificată de parametrul `alpha=0.0001`.
+
+- **Dimensiunea batch-urilor**: Am setat dimensiunea batch-urilor de antrenare la 32. Aceasta reprezintă numărul de exemple de antrenare utilizate într-o singură iterație a algoritmului de optimizare. Aceasta este specificată de parametrul `batch_size=32`.
+
+- **Early stopping**: Am activat opțiunea de early stopping, care oprește antrenarea dacă performanța rețelei pe setul de validare încetează să îmbunătățească. Aceasta este specificată de parametrul `early_stopping=True`.
+
+Acești hiperparametrii sunt aleși pentru a optimiza performanța rețelei neurale în ceea ce privește precizia și capacitatea de generalizare pe setul de date dat.

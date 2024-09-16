@@ -1,0 +1,13 @@
+In my approach for logistic regression, I utilized the following strategies:
+
+### Encoding of Categorical Attributes:
+- **One-Hot Encoding:** I employed one-hot encoding for each categorical attribute in the dataset. This technique converts categorical variables into a binary vector representation, where each category is represented by a binary feature. This encoding preserves the information of each category without imposing ordinality.
+
+### Optimization Algorithm Settings (Gradient Descent):
+- **Optimization Algorithm:** I utilized the default optimization algorithm provided by scikit-learn's LogisticRegression class, which typically employs the Limited-memory Broyden-Fletcher-Goldfarb-Shanno (L-BFGS) optimization algorithm. L-BFGS is a quasi-Newton optimization method suitable for large-scale optimization problems.
+- **Learning Rate:** In the context of L-BFGS, the learning rate is adaptively determined during the optimization process. Unlike traditional gradient descent algorithms, L-BFGS does not require manual specification of a learning rate.
+
+### Regularization Method:
+- **L2 Regularization (Ridge Regression):** The LogisticRegression implementation in scikit-learn incorporates L2 regularization by default. L2 regularization penalizes the magnitude of the coefficients in the logistic regression model, thus preventing overfitting and improving generalization performance. The strength of regularization is controlled by the regularization parameter C, which I did not explicitly specify, thereby using its default value.
+
+Overall, my logistic regression approach utilized one-hot encoding for categorical attributes, employed the L-BFGS optimization algorithm for gradient descent, and incorporated L2 regularization to prevent overfitting. These strategies aim to build a robust logistic regression model capable of accurately predicting the target variable while mitigating the risk of overfitting.

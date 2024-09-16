@@ -1,0 +1,30 @@
+Epoch 1: Train Loss=0.47308882171043093, Train Accuracy=0.7903093122737743, Test Loss=1.0326319151850023, Test Accuracy=0.368
+Epoch 2: Train Loss=0.4493701198851166, Train Accuracy=0.7934353405725567, Test Loss=0.9454936497821145, Test Accuracy=0.52
+Epoch 3: Train Loss=0.41517311429425663, Train Accuracy=0.8144008837493537, Test Loss=0.9109315808270075, Test Accuracy=0.5845
+Epoch 4: Train Loss=0.3984598062813011, Train Accuracy=0.8208174681521178, Test Loss=0.8942805440649769, Test Accuracy=0.6045
+Epoch 5: Train Loss=0.38796099641974835, Train Accuracy=0.8250951910872938, Test Loss=0.885006177624894, Test Accuracy=0.617
+Epoch 6: Train Loss=0.38013005541272193, Train Accuracy=0.8281389554834767, Test Loss=0.8790567639107231, Test Accuracy=0.623
+Epoch 7: Train Loss=0.3736569356243166, Train Accuracy=0.8316763032952569, Test Loss=0.875279597297585, Test Accuracy=0.6305
+Epoch 8: Train Loss=0.36827366482692475, Train Accuracy=0.8352959150096366, Test Loss=0.872629935856743, Test Accuracy=0.6335
+Epoch 9: Train Loss=0.36347677293274233, Train Accuracy=0.8379283598928219, Test Loss=0.8710474539375129, Test Accuracy=0.637
+Epoch 10: Train Loss=0.35925762461594274, Train Accuracy=0.8396559018474122, Test Loss=0.8697214831284378, Test Accuracy=0.642
+Epoch 11: Train Loss=0.3555271125641788, Train Accuracy=0.8413834438020026, Test Loss=0.8687860640069239, Test Accuracy=0.6415
+Epoch 12: Train Loss=0.3521590858309756, Train Accuracy=0.8426174023409957, Test Loss=0.8680526711548449, Test Accuracy=0.643
+Epoch 13: Train Loss=0.3490629646470874, Train Accuracy=0.8436868330747896, Test Loss=0.8679163629785001, Test Accuracy=0.645
+Epoch 14: Train Loss=0.346305637471383, Train Accuracy=0.8457434306397782, Test Loss=0.8674090153747928, Test Accuracy=0.647
+Epoch 15: Train Loss=0.34371900812575534, Train Accuracy=0.8466483335683731, Test Loss=0.8670994550229613, Test Accuracy=0.6475
+Epoch 16: Train Loss=0.3413352183857356, Train Accuracy=0.847553236496968, Test Loss=0.8667581285079391, Test Accuracy=0.646
+Epoch 17: Train Loss=0.33911676688904613, Train Accuracy=0.8479645560099657, Test Loss=0.866635107276248, Test Accuracy=0.645
+Epoch 18: Train Loss=0.33703571546318367, Train Accuracy=0.8487049311333615, Test Loss=0.8663906833228464, Test Accuracy=0.6465
+Epoch 19: Train Loss=0.33499870563760653, Train Accuracy=0.8500211535749542, Test Loss=0.8664514199860032, Test Accuracy=0.646
+Epoch 20: Train Loss=0.3330902115380197, Train Accuracy=0.8511728482113478, Test Loss=0.8664315699030637, Test Accuracy=0.648
+Train Accuracy: 75.78% | Train Prec: 67.86% | Train Rec: 97.96% | Train F1: 80.18%
+Train Confusion Matrix:
+      Predicted Negative   Predicted Positive
+Actual Negative    3258                2820
+Actual Positive    124                5954
+| Test NLL:  0.866 | Test Acc: 64.80% | Test Prec: 40.65% | Test Rec: 96.92% | Test F1: 57.28%
+Test Confusion Matrix:
+      Predicted Negative   Predicted Positive
+Actual Negative    824                689
+Actual Positive    15                472
